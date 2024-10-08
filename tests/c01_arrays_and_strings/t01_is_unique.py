@@ -1,6 +1,6 @@
 # tests/test_is_unique.py
 import pytest
-from src.arrays_and_strings.is_unique import is_unique  # type: ignore
+from src.c01_arrays_and_strings.is_unique import is_unique  # type: ignore
 
 
 def test_is_unique_all_unique():
