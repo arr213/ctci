@@ -4,4 +4,4 @@ def urlify(s):
 
 # Example usage:
 if __name__ == "__main__":
-    urlify("Mr John Smith")  # Output: "Mr%20John%20Smith"
+    print(urlify("Mr John Smith"))  # Output: "Mr%20John%20Smith"
